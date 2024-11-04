@@ -3,6 +3,7 @@
 - this is crazy i code im code maxxing as prof calvin would say im in my coding era
 - calvin says please use an octothorp in a markdown file idk what those words mean
 
+```
 __markdown text__ why isnt this bolding
    
     
@@ -63,4 +64,4 @@ __markdown text__ why isnt this bolding
     black = [255,255,0]
     add_circ(base, black, frown)
     arr2img(base)
-
+   ```
