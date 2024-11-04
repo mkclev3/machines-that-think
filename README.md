@@ -4,7 +4,11 @@
 - calvin says please use an octothorp in a markdown file idk what those words mean
 
 __markdown text__ why isnt this bolding
-
+   
+    
+    import numpy as np
+    from PIL import Image as im
+   
     base = [[white for i in range(100)] for j in range(100)]
     near_center = lambda x, y : dist(x-50,y-50) < 50
     add_circ(base, yellow, near_center)
