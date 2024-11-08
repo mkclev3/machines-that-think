@@ -4,7 +4,7 @@
 - calvin says please use an octothorp in a markdown file idk what those words mean
 - use jupiter convert to turn ipyng files into markdown
 
-<img src="img/green yellow duck.jpg">
+<img src="duck">
 
 **Markdown Text**
 ```
