@@ -1,7 +1,7 @@
 # Final Project: The Soul of Art
 [copy intro here]
 
-<h6>Human-Made Art Inspiration
+<h3>Human-Made Art Inspiration <h5>
 
 **Ectasy**
 
@@ -22,6 +22,7 @@
 This last painting is a digital piece by an artist I’ve been following for a while, [insert tumblr]. This particular piece is a fanart of a creator I don’t really follow, but I wanted to include at least one piece that’s a digital fanart piece because even if it’s a little silly I’m absolutely obsessed with good fanart. Everyone can connect to them so much more than with most random pieces, even if the radom pieces are better done. I know and love the story, so I feel so much more while looking at the piece. I also just love emotional and dramatic and sometimes slightly fantastical people art. It’s just so cool, they make me so happy. I love the lighting in this one so much, and I think it’s very well done. When I first saw it, I spent 10 minutes just trying to figure out their process and what I liked so much about it. I love the sort of anxiety-inducing?? Quality of this one. Looking at it I’m reminded of the feeling of pent up emotions, or the feeling of almost being this close to losing it. I love the fantastical, swishy?? Vibe of it. 
 I also feel like he looks angry but resigned, which is maybe a combination ai won’t be as accustomed to. He looks very cold, and it feels powerful? In a way. Like that feeling when u absolutely obliterate someone and are like yea, im unstoppable, its no biggie. I’m interested to see how AI attempts to replicate such a subtle emotion.
 
+</h5>
 ```
    
     
