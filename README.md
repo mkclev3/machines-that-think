@@ -2,7 +2,7 @@
 
 <img src="img/Unicorn OG">
 
-<img src="img/Bones OG"
+<img src="img/Bones OG">
 
 **Markdown Text**
 ```
