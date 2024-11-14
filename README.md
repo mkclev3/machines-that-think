@@ -1,6 +1,9 @@
 # Final Project: The Soul of Art
 [copy intro here]
 
+<h3>Follow this link to get to the github page with the actual code!</h3>
+<h4>https://mkclev3.github.io/machines-that-think/project.html</h4>
+
 <h3>Human-Made Art Inspiration </h3>
 
 **Ecstasy**
