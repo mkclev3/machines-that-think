@@ -57,4 +57,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck
 <img src="img/Unicorn AI">
 
 <img src="img/Bones AI">
-   
+
+
+<h3>Citations</h3>
+Gemini helped me with a lot of my code
