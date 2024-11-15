@@ -1,10 +1,12 @@
-# Final Project: The Soul of Art
-[copy intro here]
+# Final Project: AI versus Art
+In this project, I'll be exploring how thinking machines attempt to create art. Me personally, I consider art to be the byproducts of humans attempting to express how they understand the world around them. I'm not quite sure how to put this eloquently and in a way that doesn't sound like platitudes, but I think for something to be Art, it has to be an expression of your own perspective, emotions, and experiences. By this criteria, whatever AI creates will not and cannot be Art, as it is cannot culminate from emotions and experiences, since, obviously, AI doesn't have any. It will be a knock-off of someone else's product, but it won't be able to capture the emotion or uniqueness of the creators touch. I'm trying to think of a good similie, and the best I come up with is it's like trying to create a rainbow without the "light" of human ingenuity. You can replicate the other conditions perfectly; rain, the air, but still you'll be left with something colorless. I don't think that similie really landed, but! What I'm trying to say is that no matter what prompts I use, the art created will feel soulless.
+
+During this project, I think I might be surprised by how much AI art has grown since I've last messed around with it, or surprised with how close AI can get to creating the Art I'm trying to get it to. However, I'm confident my opinions on weather AI art is art at all will be unchanged. 
 
 <h3>Follow this link to get to the github page with the actual code!</h3>
 <h4>https://mkclev3.github.io/machines-that-think/project.html</h4>
 
-<h3>Human-Made Art Inspiration </h3>
+<h3>Art Inspiration </h3>
 
 **Ecstasy**
 
@@ -14,8 +16,13 @@
 
 <sub> A 1927 oil painting by Matthew Parrish, titled "Ecstasy"</sub>
 
-DRAFT This first piece is called “Ecstasy”, a 1929 oil painting by Maxfield Parrish. This actually wasn’t the oil painting I was looking for, but I couldn’t find the other one, and I’m a big fan of this one too. The feeling this painting reminds me of is childlike wonder, and I don’t really know what the name of the feeling is, but when you’ve been sitting for too long and you finally go outside and run in the grass barefoot, and its windy and just such a perfect day. The feeling of elation I guess? I just really love this painting. It’s got such a Maxfield Parrish look- all of his mountains look the same, which I find funny. But the obvious highlight of the painting is the figure itself– I love the weird cloud like and physics-defying dress, I love how happy she looks, and maybe this is strange, but I love her femininity. She’s so graceful, and it doesn’t feel sexualized or icky at all. I feel like I can feel her sense of freedom through the painting. I also think her dress is very weird- it's flowy but it looks crusty almost? And it just doesn't make sense at all. To me it looks like snowy mountains, or like a continuation of the ones in the background? Like she's sorta one with mountains, or is her own mountain. I love the form! I love the emotion! I think it’ll be a struggle for AI to figure out both the anatomy and the emotion of this.
+The feelings this painting creates for me are freedom, wonder, and the excitement of adventure. Specifically, this painting reminds me of the feeling you get when you’ve been sitting for too long, but you finally get up and go outside to run in the grass barefoot, and its windy and you've got so much energy and just such a perfect day. Elation is maybe the word I'm looking for, although Ecstasy is a very fitting one too. 
 
+I really love this painting- it’s got such a Maxfield Parrish look. All of his mountains look the same, which I find funny. I also think her dress is very weird- it's flowy but it looks crusty and it doesn't make much physical sense. It definitely looks like a man painted it, methinks. It reminds me of snowy mountains, or a continuation of the mountains in the background.
+
+The obvious highlight of the painting is the figure itself. You can tell exacly how free she's feeling by the look in her face. Something I've found myself really admiring about this painting is this sense of peaceful and unmarred femininity. I feel like a lot of similar art pieces, even those made by humans, fail to capture a sense of feminine grace and innocence that doesn't feel sexualized. AI, I believe, will be wholly unable to capture her happiness (without feeling hollow or over-the-top) and her particular brand of beauty (innocence? I can't find a word that I think is fitting). These things are the most impressive parts of the painting, and without them I doubt it'll feel beautiful or unique at all. 
+
+Another prediction I have is that AI won't be able to find a way to create a woman that isn't the face of conventional beauty. Not to say the subject of the painting isn't beautiful, but I think whoever AI creates will be a copy-paste of modern beauty standards, no matter what I tell it to do. That's something I've noticed about AI art historically, and it leaves me wondering if it'll have the same problem when creating men. 
 
 **The Last Unicorn**
 
@@ -25,7 +32,7 @@ DRAFT This first piece is called “Ecstasy”, a 1929 oil painting by Maxfield 
 
 <sub> A Scene from 1982 film "The Last Unicorn" </sub>
 
-DRAFT This is a scene from the movie “The Last Unicorn” (1982), one of the animated movies we had on repeat when I was a kid. The movie has plenty of problems, but I’m still a fan of the art. Looking at this scene makes me feel strangely sad. I’m reminded of a feeling of melancholy, peace, and maybe a little bit of despair. In this scene, the unicorn has been wandering alone for a long time and wishes to be reunited with the other unicorns. Even if you haven’t seen the movie, though, you can tell what she’s feeling just by looking at it, even though it's a weird mythical deer-horse unicorn thing. I think its is absolutely gorgeous, especially the lighting. Similar to “ecstasy,” something I really love about this piece is how graceful and ethereal the unicorn seems. I feel like I could stare at this frame for forever, its strangely hypnotizing. I also LOVE the trees and the background. Its got such a 1980s animation feel, I miss when movies were animated that way. It pops! Its just so gorgeous and so sad. And like mysterious 
+This is a scene from the movie “The Last Unicorn” (1982), one of the animated movies we had on repeat when I was a kid. The movie has plenty of problems, but I’m still a fan of the art. Looking at this scene makes me feel strangely sad. I’m reminded of a feeling of melancholy, peace, and maybe a little bit of despair. In this scene, the unicorn has been wandering alone for a long time and wishes to be reunited with the other unicorns. Even if you haven’t seen the movie, though, you can tell what she’s feeling just by looking at it, even though it's a weird mythical deer-horse unicorn thing. I think its is absolutely gorgeous, especially the lighting. Similar to “ecstasy,” something I really love about this piece is how graceful and ethereal the unicorn seems. I feel like I could stare at this frame for forever, its strangely hypnotizing. I also LOVE the trees and the background. Its got such a 1980s animation feel, I miss when movies were animated that way. It pops! Its just so gorgeous and so sad. And like mysterious 
 
 
 **Nadeesh Prabou Watercolor**
