@@ -201,8 +201,14 @@ I also don't really feel like I created art... with python. I feel like I recrea
 
 It felt like a very overwhelming project at first, especially since I don't really know how to code, and I kept having failure after failure. However, I really do feel like I grew a lot during it, and I'm slowly understanding that every coding project I ever undertake will probably not make sense for the first decent portion of it, and thats ok! I always figure it out eventually, and what felt like a massive task generally isn't. 
 
-I am really happy we didn't have to make 4 pieces, though.
+I am really happy we didn't have to make 4 pieces, though. And at the end of the project, I did reluctantly find myself enjoying the problem solving. This was a good project, python is less scary now.
 
 
 <h2>Citations</h2>
-Gemini helped me with a lot of my code
+Gemini, my queen 🙏, helped me out so much with this project. 
+
+**Reference:** Google. (2023). Gemini Pro [Large language model]. In Google Colaboratory. Retrieved from [https://colab.research.google.com/drive/1d0USHZM5CdTieP3TD4wOOXmtm3fanoN8?authuser=1]
+
+
+
+
