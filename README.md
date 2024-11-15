@@ -32,7 +32,15 @@ Another prediction I have is that AI won't be able to find a way to create a wom
 
 <sub> A Scene from 1982 film "The Last Unicorn" </sub>
 
-This is a scene from the movie “The Last Unicorn” (1982), one of the animated movies we had on repeat when I was a kid. The movie has plenty of problems, but I’m still a fan of the art. Looking at this scene makes me feel strangely sad. I’m reminded of a feeling of melancholy, peace, and maybe a little bit of despair. In this scene, the unicorn has been wandering alone for a long time and wishes to be reunited with the other unicorns. Even if you haven’t seen the movie, though, you can tell what she’s feeling just by looking at it, even though it's a weird mythical deer-horse unicorn thing. I think its is absolutely gorgeous, especially the lighting. Similar to “ecstasy,” something I really love about this piece is how graceful and ethereal the unicorn seems. I feel like I could stare at this frame for forever, its strangely hypnotizing. I also LOVE the trees and the background. Its got such a 1980s animation feel, I miss when movies were animated that way. It pops! Its just so gorgeous and so sad. And like mysterious 
+"The Last Unicorn" is one of the animated movies we had on repeat when I was a kid, and it remains one of my favorites. Its got lots of problems though, so please don't quote me on that, but I’m still a fan of the art. 
+
+Looking at this scene makes me feel sad. I’m reminded of a feeling of melancholy, peace, and maybe a little bit of despair.
+
+In this scene, the unicorn has been wandering alone for a long time, attempting to find another creature like her and unaware that she's the only one left. Even if you don't know the context -and despite the fact that the face of the unicorn is unable to create normal expressions- the lighting, the environment, and her body language are enough to invoke these emotions. 
+
+I think its absolutely gorgeous, especially the color and lighting choices. Similar to “ecstasy,” something I really love about this piece is how graceful and ethereal the unicorn seems. I feel like I could stare at this frame for forever; its strangely hypnotizing. I also love the stylistic choice to make a monochrome and semi-abstracted (simplified?) background. It's very unique, and the contrast between the simple shapes and dark color of the background and the bright white and more detailed form of the unicorn is especially beautiful. It pops!
+
+I think the unique art style and emotion without facial expression will be what AI struggles with the most when trying to create a similar piece, and the lack of these two elements will make it uninteresting and emotionless.
 
 
 **Nadeesh Prabou Watercolor**
