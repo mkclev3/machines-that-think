@@ -74,19 +74,27 @@ I’m interested to see how AI attempts to replicate such a subtle but powerful 
 <h3> An AI Attempt </h3>
 
 Now, AI will put forth it's valiant effort at creating art that doesn't suck.
+
 **Ecstasy: AI Edition**
 
 
 <img src="img/mountains1">
 
 
-<sub> description </sub>
+<sub> **Prompt:** 
+
+Create an image of a girl with long brown hair blowing in the wind and a white billowing dress that wraps around her body standing on the edge of a cliff. The girl is in profile view, and she is standing on her toes. She's standing beneath a blue sky with puffy white clouds, and in the background, there are mountains that are orange and brown, and look scraggly and rough. Its in the style of neo-classical oil painting, and the colors are very saturated. The girl is smiling at the sky and has her hands in her hair. She looks like she feels free
+</sub>
 
 
 <img src="img/mountains2">
 
 
-<sub> description </sub>
+<sub> **Prompt:** 
+
+Make it in profile,not landscape. The girl is standing even more sideways, and looks younger. The dress is a similar texture to the mountains, and looks a lot less smooth. 
+</sub>
+
 [insert analysis here]
 
 **The Last Unicorn: AI Edition**
@@ -96,6 +104,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 <sub> description </sub>
+
 [insert analysis here]
 
 **Rainy Watercolor: AI Edition**
@@ -117,6 +126,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 <sub> description </sub>
+
 [insert analysis here]
 
 **We Live, We Die: AI Edition**
@@ -126,6 +136,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 <sub> description </sub>
+
 [insert analysis here]
 
 <h3>Citations</h3>
