@@ -1,5 +1,5 @@
 # Final Project: AI versus Art
-In this project, I'll be exploring how thinking machines attempt to create art. Me personally, I consider art to be the byproducts of humans attempting to express how they understand the world around them. I'm not quite sure how to put this eloquently and in a way that doesn't sound like platitudes, but I think for something to be Art, it has to be an expression of your own perspective, emotions, and experiences. By this criteria, whatever AI creates will not and cannot be Art, as it is cannot culminate from emotions and experiences, since, obviously, AI doesn't have any. It will be a knock-off of someone else's product, but it won't be able to capture the emotion or uniqueness of the creators touch. I'm trying to think of a good similie, and the best I come up with is it's like trying to create a rainbow without the "light" of human ingenuity. You can replicate the other conditions perfectly; rain, the air, but still you'll be left with something colorless. I don't think that similie really landed, but! What I'm trying to say is that no matter what prompts I use, the art created will feel soulless.
+In this project, I'll be exploring how thinking machines attempt to create art. Me personally, I consider art to be the byproducts of humans attempting to express how they understand the world, or capture the human experience and connect to the experiences of others. I'm not quite sure how to put this eloquently and in a way that doesn't sound like platitudes, but I think for something to be Art, it has to be an expression of your own perspective, emotions, and experiences. By this criteria, whatever AI creates will not and cannot be Art, as it is cannot culminate from emotions and experiences, since, obviously, AI doesn't have any. It will be a knock-off of someone else's product, but it won't be able to capture the emotion or uniqueness of the creators touch. I'm trying to think of a good similie, and the best I come up with is it's like trying to create a rainbow without the "light" of human ingenuity. You can replicate the other conditions perfectly; rain, the air, but still you'll be left with something colorless. I don't think that similie really landed, but! What I'm trying to say is that no matter what prompts I use, the art created will feel soulless.
 
 During this project, I think I might be surprised by how much AI art has grown since I've last messed around with it, or surprised with how close AI can get to creating the Art I'm trying to get it to. However, I'm confident my opinions on weather AI art is art at all will be unchanged. 
 
@@ -49,9 +49,11 @@ I think the unique art style and emotion without facial expression will be what 
 <img src="img/Watercolor OG">
 
 
-<sub> A Watercolor of a rainy day by Nadeesh Prabou </sub>
+<sub> A watercolor painting of a rainy day by Nadeesh Prabou </sub>
 
-DRAFT This is a watercolor painting by Nadeesh Prabou that I love, although I don’t know and couldn’t find the name of. It’s so moody and gorgeous– I love the neon light of the cars, the windswept trees, and the contrast of the raincoat of the person walking. I can picture how this scene smells while I look at it. Its so beautiful, and I’m a big fan of watercolors. They’re strangely simple but can still be so challenging to learn. They’re used so beautifully here. I love rainy weather too, and this painting, even though it’s a little chaotic, still feels peaceful. It makes me feel like closing my eyes and lying down outside, or running through the rain, or stand under a tree and hear the rain pitter-patter on the leaves. Again, not sure how to describe this feeling? I guess longing, again a bit of melancholy, as I personally feel like all rain brings me. It also feels like a dreamscape to me.
+I love the atmosphere of this painting. It’s so dark, moody, and gorgeous; I can almost smell the rain. I love the pop of the neon lights, the movement of the windswept trees, and the contrast the the raincoat creates. This painting, even though it’s a little chaotic, still feels peaceful. All of the colors are slightly muted by the rainy weather, which contributes to the feeling of peace. The muted colors, the contrast directing your eyes to the figure, and the relative simplicity of the painting all, to me, create a sense of melencholy and longing. It also feels a bit like a dreamscape because of the hazy edges and the simple lighting and color scheme.
+
+Watercolor behaves very differently to other paint mediums, and it's used flawlessly here. I'm curios to see if AI has been trained much with it, or if it ends up looking like its an actual watercolor at all.
 
 
 **We Live, We Die**
@@ -67,7 +69,7 @@ A quick ode (not rlly tho) to fanart: fanart has the superpower of being connect
 
 I love the lighting in this one so much, and I think it’s very well made. Its dynamic, its got beautiful lighting, and a good understanding of form. When I first saw it, I spent 10 minutes just trying to figure out their process and what I liked so much about it. I love the sort of anxiety-inducing (??) quality of this piece. Looking at it I’m reminded of the feeling of pent up emotions, or the feeling of almost being this close 🤏 to losing it. I think the subject looks angry but resigned, which is maybe a combination ai won’t be as accustomed to. He looks very cold, and it feels powerful, in a way. Like that feeling when you absolutely obliterate something and are like yea, im unstoppable, its no biggie. 
 
-I’m interested to see how AI attempts to replicate such a subtle but powerful emotion (/vibe?).
+I’m interested to see how AI attempts to replicate such a subtle but powerful emotion (/vibe?), and if I'll be able to get it to make anything that has that semi-realism tumblr-would-love-this style.
 
 <h3> An AI Attempt </h3>
 
