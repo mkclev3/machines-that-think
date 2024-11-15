@@ -75,7 +75,7 @@ I’m interested to see how AI attempts to replicate such a subtle but powerful 
 <h2> An AI Attempt </h2>
 
 Now, AI will put forth it's valiant effort at creating art that doesn't suck.
-All of these analysis might end up being kinda one-note, because I don't think my conclusion that the AI isn't creating art is going to change with different images made the same way and with the same two programs. 
+All of these analyses might end up being kind of one-note because I don't think my conclusion that AI isn't creating art (so therefor no one is the artist) is going to change with different images made the same way and with the same two programs. 
 
 
 
@@ -98,7 +98,7 @@ All of these analysis might end up being kinda one-note, because I don't think m
 
 These turned out... weird. I used a few different programs to try and generate this painting, and Gemini (the ones shown above) were the closest. Chat GPT was fairly responsive when told which way the person was facing, where her arms were, etc, which is something that I found was much worse in some of the other generative AI images I found. 
 
-Honestly, I think the AI and Matthew Parrish made pretty similar backgrounds. The background was never the impressive or unique part of "Ecstasy", but AI did nail that much. The figure is where things start to get a little interesting. As predicted, even when I gave different facial descriptions, the woman's face looked the same (if modern beauty standards were a woman, basically). I tried giving different descriptions like "round" or "younger" in hopes that they would soften her features until she resempbled the woman in "Ecstasy" more, but it didn't really work. Different parts of her body also got a little messy, her feet especially. 
+Honestly, I think the AI and Matthew Parrish made pretty similar backgrounds. The background was never the impressive or unique part of "Ecstasy", but AI did nail that much. The figure is where things start to get a little interesting. As predicted, even when I gave different facial descriptions, the woman's face looked the same (if modern beauty standards were a woman, basically). I tried giving different descriptions like "round" or "younger" in hopes that they would soften her features until she resembled the woman in "Ecstasy" more, but it didn't really work. Different parts of her body also got a little messy, her feet especially. 
 
 AI made a pretty solid attempt at replicating her emotions based on my descriptions, but it still feels hollow compared to the original. There's none of the jubilance or the softness, and it's simply not as pretty.
 
@@ -121,7 +121,8 @@ AI made a pretty solid attempt at replicating her emotions based on my descripti
 </sub>
 
 
-[insert analysis here]
+**Analysis:**
+AI struggled to make stylistic choices with this one. I could keep telling it "simpler. SIMPLER" until I run out of tries, but that 1980s animated movie look is not one it can do. AI was also unable to give the horse's face any character or emotion, and the scene mostly loses its meaning. I don't consider this generation art, so again, neither AI nor I am the artist. If I have to pick someone who is, its the creators of the art it learned from to make this image. This generation is much prettier than the ones above it. At least this generation has the mood lighting. It is an objectively pretty scene, but it lost all its character and meaning. 
 
 
 
@@ -146,7 +147,7 @@ AI made a pretty solid attempt at replicating her emotions based on my descripti
 **Prompt:** Make the trees blowing in the wind, the building smaller, and the man should be crossing the street in profile view, not walking down the middle.
 
 
-[insert analysis here]
+**Analysis:** I really don't like these generations. Watercolor is so dynamic and has so much character and fluidity. Although AI can give it texture and cauliflower marks where it deems fit, everything else that makes watercolor such a good medium is wholly lost. The third generation is the best, but all of them are too detailed, and none give me that peaceful rainy day feel. I'm trying to find the words to explain what makes the original hold so much more emotion and character than these do, but they are different. Although the scenes are similar, one is hazy and moody and fresh, and the other looks basic and stagnant.
 
 
 
@@ -158,7 +159,7 @@ AI made a pretty solid attempt at replicating her emotions based on my descripti
 
 **Prompt:** Generate an image of an elegant man with a mustache who is wearing a suit, in the dark. He facing to the side, and is reaching through 3 separate glowing skeletons, who are all going through states of agony. The skeletons are red, pink, and purple. The image is digitally painted, with black sketch lines still visible, and colorful light creating stark contrast. He appears angry but subdued.
 
-[insert analysis here]
+**Analysis:** THIS. is the worst of the AI-generated art. I had a few other attempts, but I lost them, and they all looked basically the same, so you only get one! But this is nothing like the original. The image generation was very unresponsive when I asked the man to be facing the profile or for it to *actually* make the skeletons different colors. And again, the same face syndrome made it so no matter how I asked, 'elegant' made for a face shaped exactly like that. I could describe the face as boyish or softer or less aggressively 1950s spy movie villain, and it just didn't change anything. This looks gross. This lost everything about the original that I liked. The light looks bad, the face looks weird, the movement is gone, and the side eye has disappeared. I don't think I'm just especially bad at image generation (although I did run out of attempts while making this one), I think AI just especially fails to capture the fantastical, dynamic, and beautiful nature of this fanart. Maybe it was too complicated and too human expression and movement-centric, but I strongly dislike this. I refuse to call this art, so again, no artist! Not me, I don't claim that, and not the AI, because it doesn't deserve it for making that.
 
 
 
@@ -201,7 +202,7 @@ By asking it to print all of the steps, I was able to figure out that the proble
 
 This also presented a bunch of problems because everything the internet and Gemini suggested simply *wouldn't flip it*. It was pain, it was misery. I was ready to give up and call it a metaphor.
 
-But then!! Ben helped me, and after a few attempts, it was magically fixed, with a code line I was pretty sure I had tried before. Clearly I do not have the magic touch, but yay! Its done! And the lines are thick and I did cut out most of the original image when I realized how annoying it was going to be to create (although now I realize it probably would've been just as complicated if I used the whole image), but I still like it :)
+But then!! Ben helped me, and after a few attempts, it was magically fixed with a code line I was pretty sure I had tried before. Clearly I do not have the magic touch, but yay! Its done! And the lines are thick and I did cut out most of the original image when I realized how annoying it was going to be to create (although now I realize it probably would've been just as complicated if I used the whole image), but I still like it :)
 
 
 I have regrets! I do feel like I learned a lot about how PIL and a bunch of other libraries work, and I'm now a lot more comfortable working with python and gemini in general. But looking back, I shouldn't have done the project this way. 
@@ -220,6 +221,7 @@ I am really happy we didn't have to make 4 pieces, though. And at the end of the
 
 
 <h2>Citations</h2>
+
 Gemini, my queen 🙏, helped me out so much with this project. 
 
 **Reference:** Google. (2023). Gemini Pro [Large language model]. In Google Colaboratory. Retrieved from [https://colab.research.google.com/drive/1d0USHZM5CdTieP3TD4wOOXmtm3fanoN8?authuser=1]
