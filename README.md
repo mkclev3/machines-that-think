@@ -156,12 +156,22 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 <h2> My (painful) Attempt</h2>
 
-Lets go through it!
+Lets go through it! Some of the images are a little shy, and I've accepted that. 
 
-[insert og image]
-[insert line attempt]
-[insert weird attempt]
-[insert final image]
+<img src="img/Sketch1.png">
+
+<img src="img/Sketch2.png">
+
+<img src="img/Process.png">
+
+<img src="img/Attempt1.png">
+
+<img src="img/Attempt2.png">
+
+<img src="img/Attempt3.png">
+
+<img src="img/FinalAttempt.png">
+
 
 **Reflection:** 
 
