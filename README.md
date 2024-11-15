@@ -177,29 +177,32 @@ Lets go through it! Some of the images are a little shy, and I've accepted that.
 
 This was... so painful.
 
-I first created a sketch of what I wanted, which was the woman from "The Last Unicorn" reaching gently towards the other unicorns, who are peering at her from the waves. I didn't make it too complicated, and I didn't end up giving it values, it was just a sketch.
+I first created a sketch of what I wanted: the woman from "The Last Unicorn" reaching gently towards the other unicorns peering at her from the waves. I didn't make it too complicated, and I didn't end up giving it values; it was just a sketch.
 
-I did some research (I asked professor calvin) on some strategies on how to turn my sketch into something technically created with python.
+My goal was to create a sketch that invokes similar emotions (to me) as the four original pieces of art I used as inspiration. Some common themes between these pieces were melancholy, femininity, peace, darkness, simplicity, and subtlety. I used the characters from the last unicorn because I can and because I find them all to be graceful and feminine. I tried to imagine a scene that didn't happen in the movie but that I pictured being peaceful. This is why I chose to have her sitting by the water. I imagine her listening to the waves, feeling the wind in her hair, and getting a taste of the freedom the woman in "Ecstasy" feels or the peace from the scene by Nadeesh Prabou. It's melancholic because I imagine she's reaching for unicorns she imagined she used to know but hasn't been able to find in hundreds of years and longing to rejoin them. Her sadness is subtle, though. Her eyes are downcast, and she has a slight smile, as though of assignment.
 
-First I loaded my image into collab, then I used a fancy library tool to detect where the lines in the image were. Then I blurred the lines (so that they're clearer, ironically). Then I cleaned up the edges, adjusted the threshold, created a skeleton of my shetch, and thinned the skeleton. Did all of these things happen successfully? no. Am I done fixing it and satisfied with how it came out? yes.
+I liked the scene a lot, but I found the waves to be too large and rough-looking, not as gentle as I wanted them to be. This didn't end up mattering, though, because I replaced 3/4ths of the sketch with a bird in an effort to make the scene simpler. I still imagine it to be sad because instead of looking at her family that she wishes to rejoin, she's looking at a bird that she longs to be free (of this world and of this fate) like.
 
-I ended up having one major problem, once I figured out how to get the skeleton working properly. And that was that it KEPT PRINTING THE FINAL IMAGE UPSIDE DOWN.
+I did some research (I asked Professor Calvin) on strategies for turning my sketch into something technically created with Python.
+
+First, I loaded my image into Colab, then used a fancy library tool to detect where the lines in the image were. Then, I blurred the lines (so that they're clearer, ironically). Then, I cleaned up the edges, adjusted the threshold, created a skeleton of my sketch, and thinned the skeleton. Did all of these things happen successfully? No. Am I done fixing it and satisfied with how it came out? Yes.
+
+I ended up having one major problem once I figured out how to get the skeleton working properly. And that was that it KEPT PRINTING THE FINAL IMAGE UPSIDE DOWN.
 
 By asking it to print all of the steps, I was able to figure out that the problem was only happening when it was filling the skeleton. I tried for so long to figure out what exactly was causing it to flip, but once Gemini and I were both out of ideas, I decided to focus instead on flipping it back.
 
-This also presented a bunch of problems, because everything the internet and gemini suggested simply *wouldn't flip it*. It was pain, it was misery. I was ready to give up and call it a metaphor.
+This also presented a bunch of problems because everything the internet and Gemini suggested simply *wouldn't flip it*. It was pain, it was misery. I was ready to give up and call it a metaphor.
 
-But then!! Ben helped me and after a few attempts it was magically fixed, with a code line I was pretty sure I had tried before. Clearly I do not have the magic touch, but yay! Its done! And the lines are thick and I did cut out most of the original image when I realized how annoying it was going to be to create (although now I realize it probably would've been just as complicated if I used the whole image), but I still like it :)
+But then!! Ben helped me, and after a few attempts, it was magically fixed, with a code line I was pretty sure I had tried before. Clearly I do not have the magic touch, but yay! Its done! And the lines are thick and I did cut out most of the original image when I realized how annoying it was going to be to create (although now I realize it probably would've been just as complicated if I used the whole image), but I still like it :)
 
-**What I Learned:**
 
 I have regrets! I do feel like I learned a lot about how PIL and a bunch of other libraries work, and I'm now a lot more comfortable working with python and gemini in general. But looking back, I shouldn't have done the project this way. 
 
-If I were to do this project again, I'd do the project the way we practiced with the emoji activity. I'd thought it'd be more complicated and time consuming, but the way this went, I would've spent more time actually coding and creating and less time getting stuck behind error after error if I'd done it the emoji-method. 
+If I were to do this project again, I'd do it the way we practiced with the emoji activity. I thought it'd be more complicated and time-consuming, but the way this went, I would've spent more time actually coding and creating and less time getting stuck behind error after error if I'd done it the emoji method. 
 
-I also don't really feel like I created art... with python. I feel like I recreated a sketch? But I would say the sketch was the art, the python was just the same art in a different medium. If I'd added values to my sketch, I might've felt like I was doing more creating with the python itself, but I'm glad I didn't. Just the sketch was hard enough to figure out, values would've been biting off way more than I could chew. If I were to do a second project, maybe I'd try values, now that I know how to make outlines easily.
+I also don't really feel like I created art using python, my code was mostly just replicating a prior sketch. I would say the sketch was the art, and the python was just the same art in a different medium. If I'd added values to my sketch, I might've felt like I was doing more creating with the python itself, but I'm glad I didn't. Just the sketch was hard enough to figure out, values would've been biting off way more than I could chew. If I were to do a second project, maybe I'd try values, now that I know how to make outlines easily.
 
-It felt like a very overwhelming project at first, especially since I don't really know how to code, and I kept having failure after failure. However, I really do feel like I grew a lot during it, and I'm slowly understanding that every coding project I ever undertake will probably not make sense for the first decent portion of it, and thats ok! I always figure it out eventually, and what felt like a massive task generally isn't. 
+It felt like a very overwhelming project at first, especially since I didn't really know how to code, and I kept having failure after failure. However, I really do feel like I grew a lot during it, and I'm slowly understanding that every coding project I ever undertake will probably not make sense for the first decent portion of it, and thats ok! I always figure it out eventually, and what felt like a massive task generally isn't. 
 
 I am really happy we didn't have to make 4 pieces, though. And at the end of the project, I did reluctantly find myself enjoying the problem solving. This was a good project, python is less scary now.
 
