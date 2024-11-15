@@ -71,73 +71,88 @@ I love the lighting in this one so much, and I think it’s very well made. Its 
 
 I’m interested to see how AI attempts to replicate such a subtle but powerful emotion (/vibe?), and if I'll be able to get it to make anything that has that semi-realism tumblr-would-love-this style.
 
-<h3> An AI Attempt </h3>
+<h2> An AI Attempt </h2>
 
 Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
-**Ecstasy: AI Edition**
+
+
+<h3>Ecstasy: AI Edition</h3>
 
 
 <img src="img/mountains1">
 
 
-<sub> **Prompt:** 
-
-Create an image of a girl with long brown hair blowing in the wind and a white billowing dress that wraps around her body standing on the edge of a cliff. The girl is in profile view, and she is standing on her toes. She's standing beneath a blue sky with puffy white clouds, and in the background, there are mountains that are orange and brown, and look scraggly and rough. Its in the style of neo-classical oil painting, and the colors are very saturated. The girl is smiling at the sky and has her hands in her hair. She looks like she feels free
-</sub>
+**Prompt:** Create an image of a girl with long brown hair blowing in the wind and a white billowing dress that wraps around her body standing on the edge of a cliff. The girl is in profile view, and she is standing on her toes. She's standing beneath a blue sky with puffy white clouds, and in the background, there are mountains that are orange and brown, and look scraggly and rough. Its in the style of neo-classical oil painting, and the colors are very saturated. The girl is smiling at the sky and has her hands in her hair. She looks like she feels free
 
 
 <img src="img/mountains2">
 
 
-<sub> **Prompt:** 
+**Prompt:** Make it in profile,not landscape. The girl is standing even more sideways, and looks younger. The dress is a similar texture to the mountains, and looks a lot less smooth. 
 
-Make it in profile,not landscape. The girl is standing even more sideways, and looks younger. The dress is a similar texture to the mountains, and looks a lot less smooth. 
-</sub>
 
 [insert analysis here]
 
-**The Last Unicorn: AI Edition**
+
+
+<h3>The Last Unicorn: AI Edition**</h3>
+
+
+[put other image here]
+
+
+**Prompt:** Create an image of a white unicorn that's elegant and ethereal, that's standing on a mountain at night, with trees that are abstract in the background, and a full moon overhead. It's nighttime, and everything is dark blue except for the unicorn, who is illuminated by the light of the moon. 
+
 
 
 <img src="img/Unicorn AI">
 
 
-<sub> description </sub>
+**Prompt:** Do it again, but make the mood more melancholy, and make the painting more dark blue, and the lines should be less harsh. It should be drawn in the style of 80s 2d animation 
+</sub>
+
 
 [insert analysis here]
 
-**Rainy Watercolor: AI Edition**
+
+
+<h3>Rainy Watercolor: AI Edition</h3>
 
 
 <img src="img/watercolor1">
 
 
-<sub> description </sub>
+**Prompt:** Create an image of a watercolor painting of a rainy day. The focus of the image is a man with a black umbrella, an orange shirt, and a spotted dog walking in front of him, crossing the road. The entire painting is green tinged, and cars are driving past the road, with their headlights causing red and yellow reflections on the damp pavement. In the background, you can see palm trees being blown in strong wind, and the outline of a building. The painting feels melancholy, and kind of hazy.
 
 
 <img src="img/watercolor2">
 
 
-<sub> description </sub>
+**Prompt:** Make it much more undetailed and zoomed out. Make it more watercolor-y and make the entire thing far more green!
 
 
 <img src="img/watercolor3">
 
 
-<sub> description </sub>
+**Prompt:** Make the trees blowing in the wind, the building smaller, and the man should be crossing the street in profile view, not walking down the middle.
+
 
 [insert analysis here]
 
-**We Live, We Die: AI Edition**
+
+
+<h3>We Live, We Die: AI Edition</h3>
 
 
 <img src="img/Bones AI">
 
 
-<sub> description </sub>
+**Prompt:** Generate an image of an elegant man with a mustache who is wearing a suit, in the dark. He facing to the side, and is reaching through 3 separate glowing skeletons, who are all going through states of agony. The skeletons are red, pink, and purple. The image is digitally painted, with black sketch lines still visible, and colorful light creating stark contrast. He appears angry but subdued.
 
 [insert analysis here]
 
-<h3>Citations</h3>
+
+
+<h2>Citations</h2>
 Gemini helped me with a lot of my code
