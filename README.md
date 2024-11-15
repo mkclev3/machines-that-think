@@ -54,20 +54,24 @@ I think the unique art style and emotion without facial expression will be what 
 DRAFT This is a watercolor painting by Nadeesh Prabou that I love, although I don’t know and couldn’t find the name of. It’s so moody and gorgeous– I love the neon light of the cars, the windswept trees, and the contrast of the raincoat of the person walking. I can picture how this scene smells while I look at it. Its so beautiful, and I’m a big fan of watercolors. They’re strangely simple but can still be so challenging to learn. They’re used so beautifully here. I love rainy weather too, and this painting, even though it’s a little chaotic, still feels peaceful. It makes me feel like closing my eyes and lying down outside, or running through the rain, or stand under a tree and hear the rain pitter-patter on the leaves. Again, not sure how to describe this feeling? I guess longing, again a bit of melancholy, as I personally feel like all rain brings me. It also feels like a dreamscape to me.
 
 
-**Breaking Bones**
-
+**We Live, We Die**
 
 <img src="img/Bones OG">
 
 
-<sub> [copy in description] </sub>
+<sub>A digital painting by tumblr user @bc-jpeg, part of a collection of paintings titled "we live, we die" </sub>
 
-DRAFT This last painting is a digital piece by an artist I’ve been following for a while, [insert tumblr]. This particular piece is a fanart of a creator I don’t really follow, but I wanted to include at least one piece that’s a digital fanart piece because even if it’s a little silly I’m absolutely obsessed with good fanart. Everyone can connect to them so much more than with most random pieces, even if the radom pieces are better done. I know and love the story, so I feel so much more while looking at the piece. I also just love emotional and dramatic and sometimes slightly fantastical people art. It’s just so cool, they make me so happy. I love the lighting in this one so much, and I think it’s very well done. When I first saw it, I spent 10 minutes just trying to figure out their process and what I liked so much about it. I love the sort of anxiety-inducing?? Quality of this one. Looking at it I’m reminded of the feeling of pent up emotions, or the feeling of almost being this close to losing it. I love the fantastical, swishy?? Vibe of it. 
-I also feel like he looks angry but resigned, which is maybe a combination ai won’t be as accustomed to. He looks very cold, and it feels powerful? In a way. Like that feeling when u absolutely obliterate someone and are like yea, im unstoppable, its no biggie. I’m interested to see how AI attempts to replicate such a subtle emotion.
+This last painting is fanart by an artist I’ve been following for a while, @bc-jpeg. This particular piece is fanart of a creator I don’t really follow, but its so cool! It does have a bit of a tumblr-esc style, but good art is good art, so I'll tolerate no complaints or slander.
+
+A quick ode (not rlly tho) to fanart: fanart has the superpower of being connected to stories that the audience already knows and loves, and I feel that, often, it gives artists the sense that they can skip the "context" while painting, and explore more dramatic or unique subjects. Fanart, even the top percent of it thats really really good, is so fantastical and emotional and dramatic, and I love that, and I love the freedom that gives for creators and the support for artists that it generates.
+
+I love the lighting in this one so much, and I think it’s very well made. Its dynamic, its got beautiful lighting, and a good understanding of form. When I first saw it, I spent 10 minutes just trying to figure out their process and what I liked so much about it. I love the sort of anxiety-inducing (??) quality of this piece. Looking at it I’m reminded of the feeling of pent up emotions, or the feeling of almost being this close 🤏 to losing it. I think the subject looks angry but resigned, which is maybe a combination ai won’t be as accustomed to. He looks very cold, and it feels powerful, in a way. Like that feeling when you absolutely obliterate something and are like yea, im unstoppable, its no biggie. 
+
+I’m interested to see how AI attempts to replicate such a subtle but powerful emotion (/vibe?).
 
 <h3> An AI Attempt </h3>
 
-Now, AI will put forth it's valiant effort at creating art that doesn't suck
+Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 <img src="img/Unicorn AI">
 
