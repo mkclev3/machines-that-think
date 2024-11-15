@@ -99,7 +99,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 <h3>The Last Unicorn: AI Edition**</h3>
 
 
-[put other image here]
+<img src="img/Unicorn0">
 
 
 **Prompt:** Create an image of a white unicorn that's elegant and ethereal, that's standing on a mountain at night, with trees that are abstract in the background, and a full moon overhead. It's nighttime, and everything is dark blue except for the unicorn, who is illuminated by the light of the moon. 
