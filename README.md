@@ -71,13 +71,15 @@ I love the lighting in this one so much, and I think it’s very well made. Its 
 
 I’m interested to see how AI attempts to replicate such a subtle but powerful emotion (/vibe?), and if I'll be able to get it to make anything that has that semi-realism tumblr-would-love-this style.
 
+
 <h2> An AI Attempt </h2>
 
 Now, AI will put forth it's valiant effort at creating art that doesn't suck.
+All of these analysis might end up being kinda one-note, because I don't think my conclusion that the AI isn't creating art is going to change with different images made the same way and with the same two programs. 
 
 
 
-<h3>Ecstasy: AI Edition</h3>
+<h3>Ecstasy: Chat GPT Edition</h3>
 
 
 <img src="img/mountains1">
@@ -92,11 +94,17 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 **Prompt:** Make it in profile,not landscape. The girl is standing even more sideways, and looks younger. The dress is a similar texture to the mountains, and looks a lot less smooth. 
 
 
-[insert analysis here]
+**Analysis:** 
+
+These turned out... weird. I used a few different programs to try and generate this painting, and Gemini (the ones shown above) were the closest. Chat GPT was fairly responsive when told which way the person was facing, where her arms were, etc, which is something that I found was much worse in some of the other generative AI images I found. 
+
+Honestly, I think the AI and Matthew Parrish made pretty similar backgrounds. The background was never the impressive or unique part of "Ecstasy", but AI did nail that much. The figure is where things start to get a little interesting. As predicted, even when I gave different facial descriptions, the woman's face looked the same (if modern beauty standards were a woman, basically). I tried giving different descriptions like "round" or "younger" in hopes that they would soften her features until she resempbled the woman in "Ecstasy" more, but it didn't really work. Different parts of her body also got a little messy, her feet especially. 
+
+AI made a pretty solid attempt at replicating her emotions based on my descriptions, but it still feels hollow compared to the original. There's none of the jubilance or the softness, and it's simply not as pretty.
 
 
 
-<h3>The Last Unicorn: AI Edition**</h3>
+<h3>The Last Unicorn: Gemini Edition**</h3>
 
 
 <img src="img/Unicorn0">
@@ -117,7 +125,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 
-<h3>Rainy Watercolor: AI Edition</h3>
+<h3>Rainy Watercolor: Chat GPT Edition</h3>
 
 
 <img src="img/watercolor1">
@@ -142,7 +150,7 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 
-<h3>We Live, We Die: AI Edition</h3>
+<h3>We Live, We Die: Gemini Edition</h3>
 
 
 <img src="img/Bones AI">
@@ -204,6 +212,8 @@ I also don't really feel like I created art using python, my code was mostly jus
 
 I also should have made the graph that I put the skeleton on much bigger so that I have room for more details.
 
+Also, I was definitely the artist, not PIL. All PIL did was make a skeleton and fill it,
+
 It felt like a very overwhelming project at first, especially since I didn't really know how to code, and I kept having failure after failure. However, I really do feel like I grew a lot during it, and I'm slowly understanding that every coding project I ever undertake will probably not make sense for the first decent portion of it, and thats ok! I always figure it out eventually, and what felt like a massive task generally isn't. 
 
 I am really happy we didn't have to make 4 pieces, though. And at the end of the project, I did reluctantly find myself enjoying the problem solving. This was a good project, python is less scary now.
@@ -213,6 +223,10 @@ I am really happy we didn't have to make 4 pieces, though. And at the end of the
 Gemini, my queen 🙏, helped me out so much with this project. 
 
 **Reference:** Google. (2023). Gemini Pro [Large language model]. In Google Colaboratory. Retrieved from [https://colab.research.google.com/drive/1d0USHZM5CdTieP3TD4wOOXmtm3fanoN8?authuser=1]
+
+**Reference:** Gemini. (2023). Gemini 1.5. [Image created by AI]. Gemini. [https://gemini.google.com/app]
+
+**Reference:** OpenAI. (2024). ChatGPT (v2). [Image created by AI]. OpenAI. [https://platform.openai.com]
 
 
 
