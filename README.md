@@ -74,11 +74,59 @@ I’m interested to see how AI attempts to replicate such a subtle but powerful 
 <h3> An AI Attempt </h3>
 
 Now, AI will put forth it's valiant effort at creating art that doesn't suck.
+**Ecstasy: AI Edition**
+
+
+<img src="img/mountains1">
+
+
+<sub> description </sub>
+
+
+<img src="img/mountains2">
+
+
+<sub> description </sub>
+[insert analysis here]
+
+**The Last Unicorn: AI Edition**
+
 
 <img src="img/Unicorn AI">
 
+
+<sub> description </sub>
+[insert analysis here]
+
+**Rainy Watercolor: AI Edition**
+
+
+<img src="img/watercolor1">
+
+
+<sub> description </sub>
+
+
+<img src="img/watercolor2">
+
+
+<sub> description </sub>
+
+
+<img src="img/watercolor3">
+
+
+<sub> description </sub>
+[insert analysis here]
+
+**We Live, We Die: AI Edition**
+
+
 <img src="img/Bones AI">
 
+
+<sub> description </sub>
+[insert analysis here]
 
 <h3>Citations</h3>
 Gemini helped me with a lot of my code
