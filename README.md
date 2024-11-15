@@ -202,6 +202,8 @@ If I were to do this project again, I'd do it the way we practiced with the emoj
 
 I also don't really feel like I created art using python, my code was mostly just replicating a prior sketch. I would say the sketch was the art, and the python was just the same art in a different medium. If I'd added values to my sketch, I might've felt like I was doing more creating with the python itself, but I'm glad I didn't. Just the sketch was hard enough to figure out, values would've been biting off way more than I could chew. If I were to do a second project, maybe I'd try values, now that I know how to make outlines easily.
 
+I also should have made the graph that I put the skeleton on much bigger so that I have room for more details.
+
 It felt like a very overwhelming project at first, especially since I didn't really know how to code, and I kept having failure after failure. However, I really do feel like I grew a lot during it, and I'm slowly understanding that every coding project I ever undertake will probably not make sense for the first decent portion of it, and thats ok! I always figure it out eventually, and what felt like a massive task generally isn't. 
 
 I am really happy we didn't have to make 4 pieces, though. And at the end of the project, I did reluctantly find myself enjoying the problem solving. This was a good project, python is less scary now.
