@@ -154,5 +154,36 @@ Now, AI will put forth it's valiant effort at creating art that doesn't suck.
 
 
 
+<h2> My (painful) Attempt</h2>
+
+Lets go through it!
+
+[insert og image]
+[insert line attempt]
+[insert weird attempt]
+[insert final image]
+
+**Reflection:** 
+
+This was... so painful.
+
+If I were to do this project again, I'd do the project the way we practiced with the emoji activity, because I'd thought it'd be more complicated and time consuming, but the way this went, it would've been so much better the other way.
+
+I first created a sketch of what I wanted, which was the woman from "The Last Unicorn" reaching gently towards the other unicorns, who are peering at her from the waves. I didn't make it too complicated, and I didn't end up giving it values, it was just a sketch.
+
+I did some research (I asked professor calvin) on some strategies on how to turn my sketch into something technically created with python.
+
+How this worked, is first I loaded my image into collab, then I used a fancy library tool to detect where the lines in the image were. Then I blurred the lines (so that they're clearer, ironically). Then I cleaned up the edges, adjusted the threshold, created a skeleton of my shetch, and thinned the skeleton. Did all of these things happen successfully? no. Am I done fixing it and satisfied with how it came out? yes.
+
+I ended up having one major problem, once I figured out how to get the skeleton working properly. And that was that it KEPT PRINTING THE FINAL IMAGE UPSIDE DOWN.
+
+By asking it to print all of the steps, I was able to figure out that the problem was only happening when it was filling the skeleton. I tried for so long to figure out what exactly was causing it to flip, but once Gemini and I were both out of ideas, I decided to focus instead on flipping it back.
+
+This also presented a bunch of problems, because everything the internet and gemini suggested simply **wouldn't flip it*. It was pain, it was misery. I was ready to give up and call it a metaphor.
+
+But then!! Ben helped me and after a few attempts it was magically fixed, with a code line I was pretty sure I had tried before. Clearly I do not have the magic touch, but yay! Its done! And the lines are thick and I did cut out most of the original image when I realized how annoying it was going to be to create (although now I realize it probably would've been just as complicated if I used the whole image), but I still like it :)
+
+**What Have I learned?**
+
 <h2>Citations</h2>
 Gemini helped me with a lot of my code
